@@ -1,10 +1,19 @@
+
 PREDEF:
-  - preface.re
+# はじめに
+  - introduction.re
 
 CHAPS:
-  - article.re
-
-APPENDIX:
+#  - kihou15-mochikoAsTech.re
+  - event-registration.re
+  - process-of-writing.re
+  - common-for-advertising.re
+  - before-event.re
+  - during.re
+  - after.re
 
 POSTDEF:
+# あとがき
+  - postscript.re
+# 執筆者一覧
   - contributors.re
