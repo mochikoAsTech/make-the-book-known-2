@@ -11,6 +11,7 @@ CHAPS:
   - before-event.re
   - during.re
   - after.re
+  - example.re
 
 POSTDEF:
 # あとがき
