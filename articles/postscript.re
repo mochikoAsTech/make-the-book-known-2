@@ -20,6 +20,18 @@ mochikoAsTech
 
 //pagebreak
 
+== あとがき 改訂第2版
+
+
+
+//flushright{
+
+2026年4月
+
+mochikoAsTech
+
+//}
+
 =={pdf} PDF版のダウンロード
 
 本書（紙の書籍）をお買い上げいただいた方は、下記のURLからPDF版を無料でダウンロードできます。
